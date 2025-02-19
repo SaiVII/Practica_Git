@@ -1,0 +1,11 @@
+{
+    "contact" : "contacto",
+    "home"  : "inicio",
+    "about" : "Quienes somos",
+    "send"  : "Enviar",
+    "I need your name"  :   "Necesito tu nombre",
+    "create"    :   "crear",
+    "edit"      :   "editar",
+    "projects"  :   "portafolio"
+
+}   
